@@ -20,4 +20,4 @@ This Inventory Management System is designed to help businesses efficiently trac
 ## License
 [MIT](https://opensource.org/license/MIT)
 
--copyright (c) 2025 **Rosemary Ojwang**_
+_copyright (c) 2025 **Rosemary Ojwang**_
